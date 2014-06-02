@@ -4,6 +4,7 @@ Compare the performance of removing whitespace between two maven plugins:
 vs.
 `com.github.dantwining.whitespace-maven-plugin::whitespace-maven-plugin::1.0.4`
 
+---
 
 #### Usage
 
@@ -15,6 +16,7 @@ Each of the plugins can be activated by the respective profiles for them:
 | maven-replacer-plugin  |  `git reset --hard && mvn clean install -Pmaven-replacer-plugin`|
 
 
+---
 
 #### Current Results (02-June-2014)
 
