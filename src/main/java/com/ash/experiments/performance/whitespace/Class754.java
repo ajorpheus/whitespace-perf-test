@@ -1,0 +1,2 @@
+public class Class754 {}    
+          
