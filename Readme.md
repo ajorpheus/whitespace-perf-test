@@ -5,7 +5,7 @@ vs.
 `com.github.dantwining.whitespace-maven-plugin::whitespace-maven-plugin::1.0.4`
 
 
-**Usage**
+#### Usage
 
 Each of the plugins can be activated by the respective profiles for them:
 
@@ -16,7 +16,7 @@ Each of the plugins can be activated by the respective profiles for them:
 
 
 
-**Current Results (02-June-2014)**
+#### Current Results (02-June-2014)
 
 | Build | whitespace-maven-plugin | maven-replacer-plugin  |
 | ----- | ------------- | ------------- |
